@@ -34,9 +34,11 @@ As the author and the industry practictioners report elements of scale and key s
 will be constantly updated.
 
 # Blockchain in Fintech Framework
+
 The blockchain in Fintech framework is a blockchain adoption framework for the finance vertical.
 
-# Blockchain in Healthcare Discovery Framework
+## Blockchain in Healthcare Discovery Framework
+
 The blockchain in Healthcare disvoery framework is a blockchain adoption framework for the healthcare vertical, and covers healthcare specific issues such as fragmentation, data quality,
 healthcare interoperability, blockchain interoperability, regulations and privacy*.
 

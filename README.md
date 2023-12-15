@@ -44,6 +44,8 @@ healthcare interoperability, blockchain interoperability, regulations and privac
 
 [Blockchain in Healthcare Discovery Framework](/blockchainframeworks/blockchain-in-helathcare.md)
 
+[Blockchain in Healthcare Discovery Framework](Blockchain-in-Healthcare-Discovery-Framework.md)
+
 
 
 

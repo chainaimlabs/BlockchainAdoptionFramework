@@ -42,7 +42,7 @@ The blockchain in Fintech framework is a blockchain adoption framework for the f
 The blockchain in Healthcare disvoery framework is a blockchain adoption framework for the healthcare vertical, and covers healthcare specific issues such as fragmentation, data quality,
 healthcare interoperability, blockchain interoperability, regulations and privacy*.
 
-[Blockchain in Healthcare Discovery Framework](/wiki/Blockchain-in-Healthcare-Discovery-Framework)
+[Blockchain in Healthcare Discovery Framework](https://github.com/chainaimlabs/BlockchainAdoptionFramework/wiki/Blockchain-in-Healthcare-Discovery-Framework)https://github.com/chainaimlabs/BlockchainAdoptionFramework/wiki/Blockchain-in-Healthcare-Discovery-Framework)
 
 
 
